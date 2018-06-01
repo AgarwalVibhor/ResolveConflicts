@@ -4,6 +4,8 @@ This is the second file in the series.
 Changes are here because of feature 1.
 There are more files to come.
 These are the changes that will be places in feature 1.
+Some changes have been made in the feature 2 branch.
 Changes will be made at frequent intervals.
 
 A little more changes for feature 1.
+This might affect at other places for feature 2.

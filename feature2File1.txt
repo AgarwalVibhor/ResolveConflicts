@@ -1,0 +1,3 @@
+This is the first feature2 file.
+
+There will be no conflicts in this file.
