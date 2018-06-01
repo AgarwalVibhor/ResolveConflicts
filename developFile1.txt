@@ -1,0 +1,7 @@
+This is first file in develop branch.
+
+This is the second file in the series.
+
+There are more files to come.
+
+Changes will be made at frequent intervals.
