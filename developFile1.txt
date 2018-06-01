@@ -3,5 +3,7 @@ This is first file in develop branch.
 This is the second file in the series.
 
 There are more files to come.
-
+Some changes have been made in the feature 2 branch.
 Changes will be made at frequent intervals.
+
+This might affect at other places for feature 2.
